@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Nov 02 12:01:05 IST 2023","Thu Nov 02 12:01:08 IST 2023","2573","Default Suite","My_FrameworK","org.example.Full_Crud.Integration","org.example.Full_Crud.Integration","UpdateBooking","UpdateBooking",""
+"passed","Thu Nov 02 12:01:10 IST 2023","Thu Nov 02 12:01:13 IST 2023","2337","Default Suite","My_FrameworK","org.example.Full_Crud.Integration","org.example.Full_Crud.Integration","DeleteBooking","DeleteBooking",""
+"passed","Wed Nov 01 16:21:27 IST 2023","Wed Nov 01 16:21:32 IST 2023","5653","Default Suite","My_FrameworK","org.example.Full_Crud.gettoken","org.example.Full_Crud.gettoken","Token","Token",""
+"passed","Thu Nov 02 12:01:13 IST 2023","Thu Nov 02 12:01:14 IST 2023","1205","Default Suite","My_FrameworK","org.example.Full_Crud.Integration","org.example.Full_Crud.Integration","GetBooking","GetBooking",""
+"passed","Thu Nov 02 12:00:58 IST 2023","Thu Nov 02 12:01:05 IST 2023","7116","Default Suite","My_FrameworK","org.example.Full_Crud.Integration","org.example.Full_Crud.Integration","CreateBooking","CreateBooking",""
+"passed","Thu Nov 02 12:01:08 IST 2023","Thu Nov 02 12:01:10 IST 2023","2553","Default Suite","My_FrameworK","org.example.Full_Crud.Integration","org.example.Full_Crud.Integration","PatchBooking","PatchBooking",""
+"passed","Thu Nov 02 12:00:29 IST 2023","Thu Nov 02 12:00:30 IST 2023","1020","Default Suite","My_FrameworK","org.example.Full_Crud.Integration","org.example.Full_Crud.Integration","dummy","dummy",""
