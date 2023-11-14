@@ -69,7 +69,8 @@ https://github.com/settings/tokens
 
 **Allure Report > >**
 
-![Screenshot (276)](https://github.com/Nikhil-Pophale/Full_CRUD_APIAutomation_FrameworK_Restfulbooker/assets/141396302/8f418477-0040-4dab-a994-bc68118fbc40)
+![Screenshot (278)](https://github.com/Nikhil-Pophale/Full_CRUD_APIAutomation_FrameworK_Restfulbooker/assets/141396302/69cb00c4-19f9-4eb6-867c-7f2419daa2be)
 
-![Screenshot (277)](https://github.com/Nikhil-Pophale/Full_CRUD_APIAutomation_FrameworK_Restfulbooker/assets/141396302/f33bcc8d-c608-4e6c-8ee5-be8457309831)
+
+![Screenshot (279)](https://github.com/Nikhil-Pophale/Full_CRUD_APIAutomation_FrameworK_Restfulbooker/assets/141396302/f33bcc8d-c608-4e6c-8ee5-be8457309831)
 
