@@ -61,7 +61,7 @@ DELETE - DELETE Booking
 
 **Auth**
 
-Token Based => Bearer Tocken
+Token Based => Bearer Token
 
 Cookies Based
 
