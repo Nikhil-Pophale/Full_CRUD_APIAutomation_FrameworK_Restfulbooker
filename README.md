@@ -29,7 +29,7 @@ Gson, Jackson API&nbsp;&nbsp;:    &nbsp;&nbsp; Payload management - POJO <br />
 
 **Project Details>>**
 
-Project url
+Project url<br />
 https://restful-booker.herokuapp.com/apidoc/index.html
 
 Restful Booker API Automation with Java and Rest Assured
