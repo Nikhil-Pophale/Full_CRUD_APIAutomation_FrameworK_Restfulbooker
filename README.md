@@ -8,25 +8,35 @@ Email : nikhilpophale01@gmail.com
 
 **Tech stack used described below:**
 
+Java 11  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;Programing language <br />
 
-Java , Rest Assured
+Rest Assured  &nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;Java library for testing RESTful web services<br />
 
-Maven, TestNG, Assert J
+Maveen &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;Build & Dependency management<br />
 
-Payload management - POJO - Gson, Jackson API
+TestNg  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;testing framework ( organize and execute RestAssured tests.)<br />
 
-Allure Report
+JEnkins  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;Execute the Test Cases<br />
+
+Git      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;source code management<br />
+
+Verification and Checkpoints &nbsp;&nbsp; : AssertJ , SoftAssert <br /> 
+
+Allure   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;to generate reports.<br />
+
+Gson, Jackson API&nbsp;&nbsp;:    &nbsp;&nbsp; Payload management - POJO <br />
 
 
 **Project Details**
 
-Restful Booker API Automation with Java and Rest Assured
+Project url
+https://restful-booker.herokuapp.com/apidoc/index.html
 
-Automation Testcase
+Restful Booker API Automation with Java and Rest Assured
 
 We are using Hybrid Framework to Automate the Test cases
 
-Payload Management
+Payload Management using POJO Classes
 
 Allure Reporting.( or Report NG)
 
@@ -44,9 +54,6 @@ Delete the Booking
 
 Verify that Booking is deleted.
 
-**Project URL**
-
-https://restful-booker.herokuapp.com/apidoc/index.html
 
 **CRUD OPeration**
 
@@ -64,8 +71,6 @@ DELETE - DELETE Booking
 Token Based => Bearer Token
 
 Cookies Based
-
-https://github.com/settings/tokens
 
 **Allure Report > >**
 
