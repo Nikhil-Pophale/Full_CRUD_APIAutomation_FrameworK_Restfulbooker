@@ -10,7 +10,7 @@ Email : nikhilpophale01@gmail.com
 
 Java 11  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;Programing language <br />
 
-Rest Assured  &nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;Java library for testing RESTful web services<br />
+Rest Assured                                             &nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;Java library for testing RESTful web services<br />
 
 Maveen   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;Build & Dependency management<br />
 
