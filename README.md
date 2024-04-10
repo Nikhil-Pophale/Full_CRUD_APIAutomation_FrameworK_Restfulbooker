@@ -6,7 +6,7 @@ Author : Nikhill Pophale
 
 Email : nikhilpophale01@gmail.com
 
-**Tech stack used described below:**
+**Tech stack used described below   >>>:**
 
 Java 11  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:    &nbsp;&nbsp;Programing language <br />
 
@@ -27,7 +27,7 @@ Allure   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 Gson, Jackson API&nbsp;&nbsp;:    &nbsp;&nbsp; Payload management - POJO <br />
 
 
-**Project Details**
+**Project Details>>**
 
 Project url
 https://restful-booker.herokuapp.com/apidoc/index.html
@@ -42,7 +42,7 @@ Allure Reporting.( or Report NG)
 
 Jenkins File (It can run on the Jenkins also)
 
-**Integration Scenarios**
+**Integration Scenarios  >>**
 
 Get the Token from POST Request.
 
@@ -55,7 +55,7 @@ Delete the Booking
 Verify that Booking is deleted.
 
 
-**CRUD OPeration**
+**CRUD OPeration    >>**
 
 GET Booking
 
