@@ -1,4 +1,4 @@
-package org.example.COMMON;
+package org.example.Common;
 
 public class APIConstants {
     public static String Base_Url="https://restful-booker.herokuapp.com";
