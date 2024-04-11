@@ -1,6 +1,6 @@
 # Full_CRUD_APIAutomation_FrameworK_Restfulbooker
 
-**Restfulbooker API Automation with Rest Assured **
+**Restfulbooker API Automation with Rest Assured**
 
 Author : Nikhill Pophale 
 
